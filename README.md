@@ -1,2 +1,2 @@
 # TECNOLOGIAS-
-PROYECTO
+PROYECTO https://eduardocastgom.github.io/TECNOLOGIAS-/
